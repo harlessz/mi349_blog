@@ -1,0 +1,33 @@
+html {
+    background: beige;
+}
+
+body {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    margin: 50px;
+    padding: 25px;
+    color: black;
+    border-top: 10px solid black;
+    background: beige;
+}
+
+h1 {
+    font-size: 4em;
+    margin: 0;
+}
+
+p {
+    line-height: 1em;
+}
+
+#blog {
+    border-top: 2px dashed black;
+}
+
+.blog-post {
+    border-bottom: 1px dashed black;
+}
+
+#blog-sub-box {
+    border-bottom: 3px solid black;
+}
